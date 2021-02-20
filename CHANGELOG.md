@@ -13,3 +13,6 @@
 # Version 0.6.4, 2020-12-03
 * Move document to GitHub
 * Dependency upgrade
+
+# Version 0.6.5, 2021-02-20
+* Update document
