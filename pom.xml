@@ -22,7 +22,7 @@
         <azure-annotations.version>1.10.0</azure-annotations.version>
         <azure-runtime.version>1.5.4</azure-runtime.version>
 
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.11.4</jackson.version>
         <joda-time.version>2.9.9</joda-time.version>
         <commons-codec.version>1.14</commons-codec.version>
         <commons-lang3.version>3.9</commons-lang3.version>
