@@ -15,6 +15,7 @@
 
 3. Make sure the [Credentials plugin](https://plugins.jenkins.io/credentials/) is installed and add a credential in Jenkins Credentials page.
 
+   If you do not want to install Docker, add `--expose-token` to [az acr login](https://docs.microsoft.com/en-us/cli/azure/acr?view=azure-cli-latest#az_acr_login)   
    Ensure that the credential kind is ***Username with password*** and enter the following items:
     * Username - The ***appId*** of the service principal created.
     * Password - The ***password*** of the service principal created.
